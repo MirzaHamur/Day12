@@ -17,3 +17,4 @@ function myNes() {
   }
   console.log(myNes());
   module.exports = myNes;
+  //EditModule
